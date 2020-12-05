@@ -4,6 +4,6 @@
   float: left;
 }
 
-.devicon-bootstrap-plain-wordmark {
+.devicon-bootstrap-plain-wordmark:before {
   font-size: 2rem;
 }
