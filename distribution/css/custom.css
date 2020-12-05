@@ -4,6 +4,18 @@
   float: left;
 }
 
-.box {
+i.devicon-bootstrap-plain {
+  font-size: 2rem;
+}
+
+i.devicon-html5-plain {
+  font-size: 2rem;
+}
+
+i.devicon-javascript-plain {
+  font-size: 2rem;
+}
+
+i.devicon-react-original {
   font-size: 2rem;
 }
